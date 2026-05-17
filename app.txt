@@ -1,0 +1,2 @@
+This is the first file for Git practice 
+i am doing git git hub hands on

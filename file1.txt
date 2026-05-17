@@ -1,0 +1,3 @@
+This is file one for git and github 
+git is version control system 
+git hub is a website that allows us to push and pull code 

@@ -1,2 +1,4 @@
 This is the first file for Git practice 
 i am doing git git hub hands on
+
+git is very useful tools for taccking our code and allow multiple devopler to work on same project  

@@ -1,0 +1,2 @@
+This is the branch concept in Git and github 
+brach means make copy of your code 
